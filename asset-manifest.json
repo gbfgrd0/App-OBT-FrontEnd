@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.32d8be4e.css",
+    "main.js": "./static/js/main.659f4e07.js",
+    "static/js/787.2066b073.chunk.js": "./static/js/787.2066b073.chunk.js",
+    "static/media/Mapa.jpeg": "./static/media/Mapa.fbc3130321cfca9af3ee.jpeg",
+    "static/media/janeiro.png": "./static/media/janeiro.0904c40645c004705d9f.png",
+    "static/media/março.png": "./static/media/março.ec9870f6ae918e9bc34f.png",
+    "static/media/fevereiro.png": "./static/media/fevereiro.bec505538d7d773744ec.png",
+    "static/media/abril.png": "./static/media/abril.4668af08d2dbfafa98d3.png",
+    "static/media/bueiro-imagem.png": "./static/media/bueiro-imagem.d7e037dbde665901830c.png",
+    "static/media/forbiden.png": "./static/media/forbiden.753450392bc13c7b99d2.png",
+    "index.html": "./index.html",
+    "main.32d8be4e.css.map": "./static/css/main.32d8be4e.css.map",
+    "main.659f4e07.js.map": "./static/js/main.659f4e07.js.map",
+    "787.2066b073.chunk.js.map": "./static/js/787.2066b073.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32d8be4e.css",
+    "static/js/main.659f4e07.js"
+  ]
+}
